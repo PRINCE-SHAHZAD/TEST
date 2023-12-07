@@ -1,1 +1,2 @@
-import K1NG
+import os,sys
+os.system('python K1NG.pyc')
